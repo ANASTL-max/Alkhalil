@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <Lemmas>
+<res>
+<word>يعتبر</word> 
+ <lemma>اعْتَبَرَ</lemma>
+</res>
+<res>
+<word>الفم</word> 
+ <lemma>فَم</lemma>
+</res>
+<res>
+<word>مدخلا</word> 
+ <lemma>مَدْخَل</lemma>
+</res>
+<res>
+<word>لأنواع</word> 
+ <lemma>نَوْع</lemma>
+</res>
+<res>
+<word>مختلفة</word> 
+ <lemma>مُخْتَلِف</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>المأكولات</word> 
+ <lemma>مَأْكُول</lemma>
+</res>
+<res>
+<word>والمشروبات</word> 
+ <lemma>مَشْرُوب</lemma>
+</res>
+<res>
+<word>بالإضافة</word> 
+ <lemma>إِضَافَة</lemma>
+</res>
+<res>
+<word>إلى</word> 
+ <lemma>إِلَى</lemma>
+</res>
+<res>
+<word>الهواء</word> 
+ <lemma>هَوَاء</lemma>
+</res>
+<res>
+<word>ومخرجا</word> 
+ <lemma>مُخْرِج</lemma>
+</res>
+<res>
+<word>للتنفس</word> 
+ <lemma>تَنَفُّس</lemma>
+</res>
+<res>
+<word>وقد</word> 
+ <lemma>قَدْ</lemma>
+</res>
+<res>
+<word>زود</word> 
+ <lemma>زَوَّدَ</lemma>
+</res>
+<res>
+<word>الله</word> 
+ <lemma>الله</lemma>
+</res>
+<res>
+<word>الفم</word> 
+ <lemma>فَم</lemma>
+</res>
+<res>
+<word>باللعاب</word> 
+ <lemma>لِعَاب</lemma>
+</res>
+<res>
+<word>واللسان</word> 
+ <lemma>لِسَان</lemma>
+</res>
+<res>
+<word>كليهما</word> 
+ <lemma>كُلِّيّ</lemma>
+</res>
+<res>
+<word>يقومان</word> 
+ <lemma>قَامَ</lemma>
+</res>
+<res>
+<word>بعملية</word> 
+ <lemma>عَمَلِيَّة</lemma>
+</res>
+<res>
+<word>التنظيف</word> 
+ <lemma>تَنْظِيف</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وهذا</word> 
+ <lemma>هَذَا</lemma>
+</res>
+<res>
+<word>لا</word> 
+ <lemma>لَا</lemma>
+</res>
+<res>
+<word>يمنع</word> 
+ <lemma>مَنَعَ</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>رائحة</word> 
+ <lemma>رَائِحَة</lemma>
+</res>
+<res>
+<word>كريه</word> 
+ <lemma>كَرِيه</lemma>
+</res>
+<res>
+<word>بخرها</word> 
+ <lemma>بَخْر</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>يكاد</word> 
+ <lemma>كَادَ</lemma>
+</res>
+<res>
+<word>أحيانا</word> 
+ <lemma>حِين</lemma>
+</res>
+<res>
+<word>لا</word> 
+ <lemma>لَا</lemma>
+</res>
+<res>
+<word>يشم</word> 
+ <lemma>أَشَامَ</lemma>
+</res>
+<res>
+<word>لأسباب</word> 
+ <lemma>سَبَب</lemma>
+</res>
+<res>
+<word>مختلفة</word> 
+ <lemma>مُخْتَلِف</lemma>
+</res>
+<res>
+<word> ، </word> 
+ <lemma> ، </lemma>
+</res>
+<res>
+<word>منها</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>:</word> 
+ <lemma>:</lemma>
+</res>
+
+<res>
+<word>عدم</word> 
+ <lemma>عَدَم</lemma>
+</res>
+<res>
+<word>تنظيف</word> 
+ <lemma>تَنْظِيف</lemma>
+</res>
+<res>
+<word>الأسنان</word> 
+ <lemma>سِنّ</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>الرواسب</word> 
+ <lemma>رَاسِب</lemma>
+</res>
+<res>
+<word>المختلفة</word> 
+ <lemma>مُخْتَلِف</lemma>
+</res>
+<res>
+<word>تنظيفا</word> 
+ <lemma>تَنْظِيف</lemma>
+</res>
+<res>
+<word>كاملا</word> 
+ <lemma>كَامِل</lemma>
+</res>
+<res>
+<word>, </word> 
+ <lemma>, </lemma>
+</res>
+<res>
+<word>أو</word> 
+ <lemma>أَوْ</lemma>
+</res>
+<res>
+<word>نتيجة</word> 
+ <lemma>نَتِيجَة</lemma>
+</res>
+<res>
+<word>خلل</word> 
+ <lemma>خَلَل</lemma>
+</res>
+<res>
+<word>عضوي</word> 
+ <lemma>عُضْو</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>المعدة</word> 
+ <lemma>مُعَدّ</lemma>
+</res>
+<res>
+<word>أو</word> 
+ <lemma>أَوْ</lemma>
+</res>
+<res>
+<word>الكبد</word> 
+ <lemma>كَبِد</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>غير</word> 
+ <lemma>غَيْرَ</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>قلة</word> 
+ <lemma>قِلَّة</lemma>
+</res>
+<res>
+<word>النظافة</word> 
+ <lemma>نَظَافَة</lemma>
+</res>
+<res>
+<word>هي</word> 
+ <lemma>هُوَ</lemma>
+</res>
+<res>
+<word>أكثر</word> 
+ <lemma>أَكْثَر</lemma>
+</res>
+<res>
+<word>الأسباب</word> 
+ <lemma>سَبَب</lemma>
+</res>
+<res>
+<word>شيوعا</word> 
+ <lemma>شُيُوع</lemma>
+</res>
+<res>
+<word>لظهور</word> 
+ <lemma>ظُهُور</lemma>
+</res>
+<res>
+<word>رائحة</word> 
+ <lemma>رَائِحَة</lemma>
+</res>
+<res>
+<word>فم</word> 
+ <lemma>فَم</lemma>
+</res>
+<res>
+<word>كريهة</word> 
+ <lemma>كَرِيه</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+</Lemmas>

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html  xmlns:th="http://thymeleaf.org">
+<head>
+    <link rel="stylesheet" href="src/main/resources/templates/style.css">
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+
+    <style>
+    tableau{
+    background-color:#ffffff;
+    width:40%;
+    }
+th {
+background-color:#ffffff;
+   text-align: center;
+}
+
+td {
+background-color:#ffffff;
+  text-align: center;
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+H3 { text-align: center;
+ font-family:fantasy;
+ color:	dodgerblue; }
+.imagebg{
+  /* The image used */
+  background-image:
+  url("../../bg.png");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+</style>
+</head>
+<body class="imagebg">
+<div class="bg text-center">
+<br>
+
+
+    <table style="width:80%  "
+            class="
+        table table-bordered table-striped table-hover table-responsive-xl table-hover center
+      "
+    >
+        <thead class="thead-dark">
+        <tr>
+            <th>Niveau</th>
+            <th>Nombre de mots</th>
+            <th>Nombre de lemmes</th>
+            <th>Nouveaux lemmes</th>
+
+        </tr>
+        </thead>
+        <tbody>
+        <tr th:each="row :${table_rows}">
+            <td>
+                [[${row.Niveau}]]
+            </td>
+            <td>
+                [[${row.Nombre_mots}]]
+            </td>
+            <td>
+                [[${row.Nombre_lemmes}]]
+            </td>
+            <td>
+                [[${row.Nouveaux_lemmes}]]
+            </td>
+        </tr>
+        </tbody>
+    </table>
+</div>
+</body>
+</html>

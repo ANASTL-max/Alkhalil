@@ -1,0 +1,21 @@
+table {
+  width: 60%;
+}
+
+div.tableau {
+  max-width: 300px;
+  }
+
+tr:hover {background-color: coral;}
+th {
+
+   text-align: left;
+}
+
+td {
+  text-align: center;
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}

@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <Lemmas>
+<res>
+<word>تحتضن</word> 
+ <lemma>احْتَضَنَ</lemma>
+</res>
+<res>
+<word>مدينة</word> 
+ <lemma>مَدِينَة</lemma>
+</res>
+<res>
+<word>فاس</word> 
+ <lemma>فَاس</lemma>
+</res>
+<res>
+<word>مهرجانا</word> 
+ <lemma>مَهْرَجَان</lemma>
+</res>
+<res>
+<word>للموسيقى</word> 
+ <lemma>مُوسِيقَى</lemma>
+</res>
+<res>
+<word>الروحية</word> 
+ <lemma>رُوحِيّ</lemma>
+</res>
+<res>
+<word>العالمية</word> 
+ <lemma>عَالَمِيّ</lemma>
+</res>
+<res>
+<word>العريقة</word> 
+ <lemma>عَرِيق</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>لقد</word> 
+ <lemma>قَدْ</lemma>
+</res>
+<res>
+<word>بات</word> 
+ <lemma>بَاتَ</lemma>
+</res>
+<res>
+<word>ذاك</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>تقليدا</word> 
+ <lemma>تَقْلِيد</lemma>
+</res>
+<res>
+<word>سنويا</word> 
+ <lemma>سَنَوِيّ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>لا</word> 
+ <lemma>لَا</lemma>
+</res>
+<res>
+<word>تحيد</word> 
+ <lemma>حَادَ</lemma>
+</res>
+<res>
+<word>عنه</word> 
+ <lemma>عَنْ</lemma>
+</res>
+<res>
+<word>جمعية</word> 
+ <lemma>جَمْعِيَّة</lemma>
+</res>
+<res>
+<word> "</word> 
+ <lemma> "</lemma>
+</res>
+<res>
+<word>فاس</word> 
+ <lemma>فَاس</lemma>
+</res>
+<res>
+<word>سايس</word> 
+ <lemma>سَايِس</lemma>
+</res>
+<res>
+<word>"</word> 
+ <lemma>"</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>ومهرجان</word> 
+ <lemma>مَهْرَجَان</lemma>
+</res>
+<res>
+<word>فاس</word> 
+ <lemma>فَاس</lemma>
+</res>
+<res>
+<word>يعمل</word> 
+ <lemma>عَمِلَ</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>عرض</word> 
+ <lemma>عَرَضَ</lemma>
+</res>
+<res>
+<word>هذا</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>النوع</word> 
+ <lemma>نَوْع</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>إثراء</word> 
+ <lemma>إِثْرَاء</lemma>
+</res>
+<res>
+<word>للثقافة</word> 
+ <lemma>ثَقَافَة</lemma>
+</res>
+<res>
+<word>الموسيقية</word> 
+ <lemma>مُوسِيقِيّ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وتمتينا</word> 
+ <lemma>تَمْتِين</lemma>
+</res>
+<res>
+<word>لأواصر</word> 
+ <lemma>آصِرَة</lemma>
+</res>
+<res>
+<word>الأخوة</word> 
+ <lemma>أُخُوَّة</lemma>
+</res>
+<res>
+<word>والتسامح</word> 
+ <lemma>تَسَامُح</lemma>
+</res>
+<res>
+<word>بين</word> 
+ <lemma>بَيْنَ</lemma>
+</res>
+<res>
+<word>شعوب</word> 
+ <lemma>شَعْب</lemma>
+</res>
+<res>
+<word>الأرض</word> 
+ <lemma>أَرْض</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>إضافة</word> 
+ <lemma>إِضَافَة</lemma>
+</res>
+<res>
+<word>إلى</word> 
+ <lemma>إِلَى</lemma>
+</res>
+<res>
+<word>أنه</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>يهدف</word> 
+ <lemma>هَدَفَ</lemma>
+</res>
+<res>
+<word>إلى</word> 
+ <lemma>إِلَى</lemma>
+</res>
+<res>
+<word>تدوين</word> 
+ <lemma>تَدْوِين</lemma>
+</res>
+<res>
+<word>هذا</word> 
+ <lemma>هَذَا</lemma>
+</res>
+<res>
+<word>الموروث</word> 
+ <lemma>مَوْرُوث</lemma>
+</res>
+<res>
+<word>الشفهي</word> 
+ <lemma>شَفَهِيّ</lemma>
+</res>
+<res>
+<word>الإنساني</word> 
+ <lemma>إِنْسَانِيّ</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وفي</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>هذا</word> 
+ <lemma>هَذَا</lemma>
+</res>
+<res>
+<word>الإطار</word> 
+ <lemma>إِطَار</lemma>
+</res>
+<res>
+<word>تأتي</word> 
+ <lemma>أَتَى</lemma>
+</res>
+<res>
+<word>مشاركة</word> 
+ <lemma>مُشَارَكَة</lemma>
+</res>
+<res>
+<word>فرق</word> 
+ <lemma>فِرْقَة</lemma>
+</res>
+<res>
+<word>موسيقية</word> 
+ <lemma>مُوسِيقِيّ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>مختلف</word> 
+ <lemma>مُخْتَلِف</lemma>
+</res>
+<res>
+<word>دول</word> 
+ <lemma>دَوْلَة</lemma>
+</res>
+<res>
+<word>العالم</word> 
+ <lemma>عَالَم</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>قاصية</word> 
+ <lemma>قَاصِيّ</lemma>
+</res>
+<res>
+<word>ودانية</word> 
+ <lemma>دَانِيَة</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>و</word> 
+ <lemma>وَ</lemma>
+</res>
+<res>
+<word>ليس</word> 
+ <lemma>لَيْسَ</lemma>
+</res>
+<res>
+<word>غريبا</word> 
+ <lemma>غَرِيب</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>مدينة</word> 
+ <lemma>مَدِينَة</lemma>
+</res>
+<res>
+<word>فاس</word> 
+ <lemma>فَاس</lemma>
+</res>
+<res>
+<word>العريقة</word> 
+ <lemma>عَرِيق</lemma>
+</res>
+<res>
+<word>بأصالتها</word> 
+ <lemma>أَصَّال</lemma>
+</res>
+<res>
+<word>وحضارتها</word> 
+ <lemma>حَضَارَة</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنْ</lemma>
+</res>
+<res>
+<word>تحمل</word> 
+ <lemma>حَمَّلَ</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>عاتقها</word> 
+ <lemma>عَاتِق</lemma>
+</res>
+<res>
+<word>حمل</word> 
+ <lemma>حَمَّلَ</lemma>
+</res>
+<res>
+<word>مسؤولية</word> 
+ <lemma>مَسْؤُولِيَّة</lemma>
+</res>
+<res>
+<word>الحفاظ</word> 
+ <lemma>حِفَاظ</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>التراث</word> 
+ <lemma>تُرَاث</lemma>
+</res>
+<res>
+<word>الموسيقي</word> 
+ <lemma>مُوسِيقِيّ</lemma>
+</res>
+<res>
+<word>الإنساني</word> 
+ <lemma>إِنْسَانِيّ</lemma>
+</res>
+<res>
+<word>العريق</word> 
+ <lemma>عَرِيق</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+</Lemmas>

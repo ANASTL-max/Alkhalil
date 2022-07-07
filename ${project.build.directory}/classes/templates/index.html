@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html xmlns:th="http://thymeleaf.org">
+<head>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+
+    <style>
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+H3 { text-align: center;
+ font-family:fantasy;
+ color:	dodgerblue;}
+
+input[type=text] {
+  width: 20%;
+  background-color: white;
+  background-image: url('src/main/resources/templates/searchicon.png');
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  padding-left: 40px;
+   display: block;
+  margin-right: auto;
+  margin-left: auto;
+  color:silver;
+}
+.imagebg{
+  /* The image used */
+  background-image:
+  url("https://img.freepik.com/free-vector/white-abstract-background-3d-paper-style_23-2148403778.jpg?w=2000");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+</style>
+</head>
+<body class="imagebg">
+
+<div class="tab-content text-center ">
+
+    <div class="tab-pane fade show active" id="pills-login" role="tabpanel" aria-labelledby="tab-login">
+
+        <br><br>
+<form th:action="@{controllerdisplay}" th:object="${controllerdisplay}" method="post">
+
+    <div>
+        <label class="form-label" for="1"><h3>La table sommaire</h3></label><br>
+        <input type="submit" id="1" name="1" class="btn btn-outline-primary btn-block mb-4 " value="RUN" >
+    </div>
+</form>
+<br><br>
+
+<form th:action="@{controller}" th:object="${controller}" method="post">
+    <div>
+        <label class="form-label" for="n"><h3>La liste des mots et lemmes les plus fréquents</h3></label>
+    <input type="text" id="n" name="n" value="taper un nombre" class="form-control">
+    <br>
+    <input type="submit" class="btn btn-outline-primary btn-block mb-4" value="RUN">
+    </div>
+</form>
+    <br><br>
+
+
+<form th:action="@{controller2}" th:object="${controller2}" method="post">
+    <div>
+        <label class="form-label" for="lem"><h3>Les niveaux et la fréquence d’un lemme</h3></label>
+        <input type="text" id="lem" name="lem" value="taper un lemme" class="form-control">
+        <br>
+        <input type="submit" class="btn btn-outline-primary btn-block mb-4" value="RUN">
+    </div>
+</form>
+
+    </div></div>
+<br><br><br><br><br><br><br><br>
+</body>
+</html>

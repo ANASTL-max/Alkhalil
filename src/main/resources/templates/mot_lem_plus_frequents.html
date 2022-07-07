@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html  xmlns:th="http://thymeleaf.org">
+<head>
+  <meta charset="UTF-8">
+  <title>mot_lem_plus_frequents</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+
+  <style>
+    table{
+    width:40%;
+    }
+th {
+
+   text-align: center;
+}
+
+td {
+  text-align: center;
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+H3 { text-align: center;
+ font-family:fantasy;
+ color:	dodgerblue; }
+ .imagebg{
+  /* The image used */
+  background-image:
+  url("../../bg.png");
+
+  /* Full height */
+  height: 100hv;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+</style>
+
+</head>
+<body class="imagebg">
+<br>
+<H3 th:text="${nWord.n}+' mots les plus fréquents'"></H3>
+
+
+<div>
+  <table style="width:40%"  class="table table-bordered table-striped table-hover table-responsive-xl center">
+    <thead class="thead-dark">
+    <tr>
+      <th>Mot</th>
+      <th>Nombre de répétition</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr th:each="row :${list_n_word}">
+      <td>
+        [[${row.mot}]]
+      </td>
+      <td>
+        [[${row.nbr}]]
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+<br><br>
+<h3 th:text="${nWord.n}+' lemmes les plus fréquents'"></h3>
+<div>
+  <table style="width:40%"  class="table table-bordered table-striped table-hover table-responsive-xl center">
+    <thead class="thead-dark">
+    <tr>
+      <th>Lemme</th>
+      <th>Nombre de répétition</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr th:each="row :${list_n_lemma}">
+      <td>
+        [[${row.mot}]]
+      </td>
+      <td>
+        [[${row.nbr}]]
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+</body>
+</html>
